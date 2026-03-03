@@ -1,0 +1,103 @@
+2026-03-01 21:19:21 - INFO - Logger initialized: logs/notebook_20260301_211921.log
+2026-03-01 21:20:51 - INFO - Logger initialized: logs/notebook_20260301_212051.log
+2026-03-01 21:25:45 - INFO - Black-and-white photos: [PosixPath('photos_black_white/boston-public-library.jpg'), PosixPath('photos_black_white/omkar-dherange.jpg')]
+2026-03-01 21:27:29 - INFO - Saved: old_Photos/old_photo_31.jpg
+2026-03-01 21:27:29 - INFO - Saved: old_Photos/old_photo_32.jpg
+2026-03-01 21:35:42 - INFO - Saved: old_Photos/old_photo_33.jpg
+2026-03-01 21:35:45 - INFO - Saved: old_Photos/old_photo_34.jpg
+2026-03-01 21:36:11 - INFO - Saved: old_Photos/old_photo_35.jpg
+2026-03-01 21:36:13 - INFO - Saved: old_Photos/old_photo_36.jpg
+2026-03-01 21:37:26 - INFO - Saved: old_Photos/old_photo_33.jpg
+2026-03-01 21:37:29 - INFO - Saved: old_Photos/old_photo_34.jpg
+2026-03-01 21:39:55 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_12', 'old_photo_23', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_30'}
+2026-03-01 21:40:13 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos_black_white
+2026-03-01 21:40:13 - INFO - Black-and-white photos: [PosixPath('photos_black_white/old_photo_32.jpg'), PosixPath('photos_black_white/old_photo_31.jpg')]
+2026-03-01 21:40:18 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_12', 'old_photo_23', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_30'}
+2026-03-01 21:40:19 - INFO - Saved: old_Photos/old_photo_31.jpg
+2026-03-01 21:40:19 - INFO - Degraded: photos_black_white/old_photo_32.jpg -> old_Photos/old_photo_31.jpg
+2026-03-01 21:40:22 - INFO - Saved: old_Photos/old_photo_32.jpg
+2026-03-01 21:40:22 - INFO - Degraded: photos_black_white/old_photo_31.jpg -> old_Photos/old_photo_32.jpg
+2026-03-01 21:40:34 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_30'}
+2026-03-01 21:40:34 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 21:40:34 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 21:41:12 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos_black_white
+2026-03-01 21:41:12 - INFO - Black-and-white photos: [PosixPath('photos_black_white/old_photo_32.jpg'), PosixPath('photos_black_white/old_photo_31.jpg')]
+2026-03-01 21:42:26 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_30'}
+2026-03-01 21:42:26 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 21:42:26 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 21:48:08 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos_black_white
+2026-03-01 21:48:08 - INFO - Black-and-white photos: []
+2026-03-01 21:48:14 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_30'}
+2026-03-01 21:48:46 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos_black_white
+2026-03-01 21:48:46 - INFO - Black-and-white photos: [PosixPath('photos_black_white/old_photo_32.jpg'), PosixPath('photos_black_white/old_photo_31.jpg')]
+2026-03-01 21:48:52 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_30'}
+2026-03-01 21:48:52 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 21:48:52 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 21:53:51 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_30'}
+2026-03-01 21:53:51 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 21:53:51 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 21:53:56 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos_black_white
+2026-03-01 21:53:56 - INFO - Black-and-white photos: [PosixPath('photos_black_white/old_photo_32.jpg'), PosixPath('photos_black_white/old_photo_31.jpg')]
+2026-03-01 21:54:04 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_30'}
+2026-03-01 21:54:04 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 21:54:04 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:01:58 - INFO - Logger initialized: logs/notebook_20260301_220158.log
+2026-03-01 22:02:08 - INFO - Logger initialized: logs/notebook_20260301_220208.log
+2026-03-01 22:04:18 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:04:18 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_30'}
+2026-03-01 22:04:18 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:04:18 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:04:52 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:04:52 - INFO - Already degraded photos: {'old_photo_15', 'old_photo_07', 'old_photo_24', 'old_photo_28', 'old_photo_11', 'old_photo_19', 'old_photo_04', 'old_photo_01', 'old_photo_05', 'old_photo_20', 'old_photo_25', 'old_photo_23', 'old_photo_12', 'old_photo_10', 'old_photo_13', 'old_photo_03', 'old_photo_06', 'old_photo_21', 'old_photo_29', 'old_photo_32', 'old_photo_08', 'old_photo_22', 'old_photo_16', 'old_photo_26', 'old_photo_27', 'old_photo_02', 'old_photo_14', 'old_photo_31', 'old_photo_09', 'old_photo_30'}
+2026-03-01 22:04:52 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:04:52 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:08:14 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:08:14 - INFO - Already degraded photos: ['old_photo_08', 'old_photo_09', 'old_photo_21', 'old_photo_20', 'old_photo_22', 'old_photo_23', 'old_photo_27', 'old_photo_26', 'old_photo_32', 'old_photo_24', 'old_photo_30', 'old_photo_19', 'old_photo_31', 'old_photo_25', 'old_photo_28', 'old_photo_14', 'old_photo_15', 'old_photo_01', 'old_photo_29', 'old_photo_03', 'old_photo_02', 'old_photo_16', 'old_photo_12', 'old_photo_06', 'old_photo_07', 'old_photo_13', 'old_photo_05', 'old_photo_11', 'old_photo_10', 'old_photo_04']
+2026-03-01 22:08:14 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:08:14 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:10:15 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:10:15 - INFO - Already degraded photos: ['old_photo_01', 'old_photo_02', 'old_photo_03', 'old_photo_04', 'old_photo_05', 'old_photo_06', 'old_photo_07', 'old_photo_08', 'old_photo_09', 'old_photo_10', 'old_photo_11', 'old_photo_12', 'old_photo_13', 'old_photo_14', 'old_photo_15', 'old_photo_16', 'old_photo_19', 'old_photo_20', 'old_photo_21', 'old_photo_22', 'old_photo_23', 'old_photo_24', 'old_photo_25', 'old_photo_26', 'old_photo_27', 'old_photo_28', 'old_photo_29', 'old_photo_30', 'old_photo_31', 'old_photo_32']
+2026-03-01 22:10:15 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:10:15 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:23:32 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos
+2026-03-01 22:23:33 - INFO - Black-and-white photos: [PosixPath('photos/old_photo_34.jpg'), PosixPath('photos/old_photo_33.jpg'), PosixPath('photos/old_photo_32.jpg'), PosixPath('photos/old_photo_31.jpg')]
+2026-03-01 22:23:38 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:23:38 - INFO - Already degraded photos: ['old_photo_01', 'old_photo_02', 'old_photo_03', 'old_photo_04', 'old_photo_05', 'old_photo_06', 'old_photo_07', 'old_photo_08', 'old_photo_09', 'old_photo_10', 'old_photo_11', 'old_photo_12', 'old_photo_13', 'old_photo_14', 'old_photo_15', 'old_photo_16', 'old_photo_19', 'old_photo_20', 'old_photo_21', 'old_photo_22', 'old_photo_23', 'old_photo_24', 'old_photo_25', 'old_photo_26', 'old_photo_27', 'old_photo_28', 'old_photo_29', 'old_photo_30', 'old_photo_31', 'old_photo_32']
+2026-03-01 22:23:38 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:23:38 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:25:18 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos
+2026-03-01 22:25:19 - INFO - Black-and-white photos: [PosixPath('photos/old_photo_34.jpg'), PosixPath('photos/old_photo_33.jpg'), PosixPath('photos/old_photo_32.jpg'), PosixPath('photos/old_photo_31.jpg')]
+2026-03-01 22:25:49 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos
+2026-03-01 22:25:51 - INFO - photos: [PosixPath('photos/old_photo_34.jpg'), PosixPath('photos/old_photo_33.jpg'), PosixPath('photos/old_photo_32.jpg'), PosixPath('photos/old_photo_31.jpg')]
+2026-03-01 22:26:33 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:26:33 - INFO - Already degraded photos: ['old_photo_01', 'old_photo_02', 'old_photo_03', 'old_photo_04', 'old_photo_05', 'old_photo_06', 'old_photo_07', 'old_photo_08', 'old_photo_09', 'old_photo_10', 'old_photo_11', 'old_photo_12', 'old_photo_13', 'old_photo_14', 'old_photo_15', 'old_photo_16', 'old_photo_19', 'old_photo_20', 'old_photo_21', 'old_photo_22', 'old_photo_23', 'old_photo_24', 'old_photo_25', 'old_photo_26', 'old_photo_27', 'old_photo_28', 'old_photo_29', 'old_photo_30', 'old_photo_31', 'old_photo_32']
+2026-03-01 22:26:33 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:26:33 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:27:48 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:27:48 - INFO - Already degraded photos: ['old_photo_01', 'old_photo_02', 'old_photo_03', 'old_photo_04', 'old_photo_05', 'old_photo_06', 'old_photo_07', 'old_photo_08', 'old_photo_09', 'old_photo_10', 'old_photo_11', 'old_photo_12', 'old_photo_13', 'old_photo_14', 'old_photo_15', 'old_photo_16', 'old_photo_19', 'old_photo_20', 'old_photo_21', 'old_photo_22', 'old_photo_23', 'old_photo_24', 'old_photo_25', 'old_photo_26', 'old_photo_27', 'old_photo_28', 'old_photo_29', 'old_photo_30', 'old_photo_31', 'old_photo_32']
+2026-03-01 22:27:48 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:27:48 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:27:57 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos
+2026-03-01 22:27:58 - INFO - photos: [PosixPath('photos/old_photo_34.jpg'), PosixPath('photos/old_photo_33.jpg'), PosixPath('photos/old_photo_32.jpg'), PosixPath('photos/old_photo_31.jpg')]
+2026-03-01 22:28:30 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos
+2026-03-01 22:28:31 - INFO - photos: [PosixPath('photos/old_photo_31.jpg'), PosixPath('photos/old_photo_32.jpg'), PosixPath('photos/old_photo_33.jpg'), PosixPath('photos/old_photo_34.jpg')]
+2026-03-01 22:28:37 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:28:37 - INFO - Already degraded photos: ['old_photo_01', 'old_photo_02', 'old_photo_03', 'old_photo_04', 'old_photo_05', 'old_photo_06', 'old_photo_07', 'old_photo_08', 'old_photo_09', 'old_photo_10', 'old_photo_11', 'old_photo_12', 'old_photo_13', 'old_photo_14', 'old_photo_15', 'old_photo_16', 'old_photo_19', 'old_photo_20', 'old_photo_21', 'old_photo_22', 'old_photo_23', 'old_photo_24', 'old_photo_25', 'old_photo_26', 'old_photo_27', 'old_photo_28', 'old_photo_29', 'old_photo_30', 'old_photo_31', 'old_photo_32']
+2026-03-01 22:28:37 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:28:37 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:29:58 - INFO - Looking in: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/photos
+2026-03-01 22:29:59 - INFO - photos: [PosixPath('photos/old_photo_31.jpg'), PosixPath('photos/old_photo_32.jpg'), PosixPath('photos/old_photo_33.jpg'), PosixPath('photos/old_photo_34.jpg')]
+2026-03-01 22:30:01 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-01 22:30:01 - INFO - Already degraded photos: ['old_photo_01', 'old_photo_02', 'old_photo_03', 'old_photo_04', 'old_photo_05', 'old_photo_06', 'old_photo_07', 'old_photo_08', 'old_photo_09', 'old_photo_10', 'old_photo_11', 'old_photo_12', 'old_photo_13', 'old_photo_14', 'old_photo_15', 'old_photo_16', 'old_photo_19', 'old_photo_20', 'old_photo_21', 'old_photo_22', 'old_photo_23', 'old_photo_24', 'old_photo_25', 'old_photo_26', 'old_photo_27', 'old_photo_28', 'old_photo_29', 'old_photo_30', 'old_photo_31', 'old_photo_32']
+2026-03-01 22:30:01 - INFO - Skipping old_photo_31 - already degraded
+2026-03-01 22:30:01 - INFO - Skipping old_photo_32 - already degraded
+2026-03-01 22:30:01 - INFO - Saved: old_Photos/old_photo_33.jpg
+2026-03-01 22:30:01 - INFO - Degraded: photos/old_photo_33.jpg -> old_Photos/old_photo_33.jpg
+2026-03-01 22:30:03 - INFO - Saved: old_Photos/old_photo_34.jpg
+2026-03-01 22:30:03 - INFO - Degraded: photos/old_photo_34.jpg -> old_Photos/old_photo_34.jpg
+2026-03-02 13:00:59 - INFO - Directory created: /Users/sruthisaripudi/Git/GMU/ece_537_image_processing/assignments/assignment2/old_Photos
+2026-03-02 13:00:59 - INFO - Already degraded photos: ['old_photo_01', 'old_photo_02', 'old_photo_03', 'old_photo_04', 'old_photo_05', 'old_photo_06', 'old_photo_07', 'old_photo_08', 'old_photo_09', 'old_photo_10', 'old_photo_11', 'old_photo_12', 'old_photo_13', 'old_photo_14', 'old_photo_15', 'old_photo_16', 'old_photo_19', 'old_photo_20', 'old_photo_21', 'old_photo_22', 'old_photo_23', 'old_photo_24', 'old_photo_25', 'old_photo_26', 'old_photo_27', 'old_photo_28', 'old_photo_29', 'old_photo_30', 'old_photo_31', 'old_photo_32', 'old_photo_33', 'old_photo_34']
+2026-03-02 13:00:59 - INFO - Skipping old_photo_31 - already degraded
+2026-03-02 13:00:59 - INFO - Skipping old_photo_32 - already degraded
+2026-03-02 13:00:59 - INFO - Skipping old_photo_33 - already degraded
+2026-03-02 13:00:59 - INFO - Skipping old_photo_34 - already degraded
